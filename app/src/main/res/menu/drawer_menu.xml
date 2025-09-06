@@ -1,10 +1,8 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
-        android:id="@+id/nav_home"
-        android:title="Inicio"
-        android:icon="@android:drawable/ic_menu_view" />
+        android:id="@+id/nav_pokemon1"
+        android:title="@string/pokemon_name" />
     <item
-        android:id="@+id/nav_settings"
-        android:title="Configuración"
-        android:icon="@android:drawable/ic_menu_preferences" />
+        android:id="@+id/nav_pokemon2"
+        android:title="@string/pokemon_name2" />
 </menu>
